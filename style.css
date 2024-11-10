@@ -145,7 +145,7 @@ input[type="checkbox"]{
 
 @media(max-width:500px){
     html{
-        font-size: 12pt<
+        font-size: 12pt;
 
     }
     #add/button{
