@@ -2,7 +2,7 @@
     --background: #101114;
     --primary-color: #1c1d20;
     --secondary-color: #4A4D57;
-    --accent-color: #00FFC4;
+    --accent-color: #d1428e;
     --text-color: #F9F9F9;
 }
 
@@ -110,7 +110,7 @@ form{
 }
 
 .delete-button:hover svg{
-    fill: red;
+    fill: #d1428e;
 }
 
 .custom-checkbox{
